@@ -1,9 +1,7 @@
 ## Hey! 👋
 I'm Elvis, a 28 year old frontend web developer from Latvia.
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+- 🌱 I’m currently learning Next.js and AWS
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML
@@ -12,15 +10,10 @@ I'm Elvis, a 28 year old frontend web developer from Latvia.
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="elvis-k" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lv.linkedin.com/in/elvis-k?trk=profile-badge">Elvis K.</a></div>
-              
-
-
+- [@ElvisK](https://www.linkedin.com/in/elvis-k/) on LinkedIn
+- [@elvisketners](https://www.instagram.com/elvisketners/) on Instagram
+- [@SasquatchLV](https://github.com/SasquatchLV) on GitHub
+          
 <!--
 **SasquatchLV/SasquatchLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
