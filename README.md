@@ -17,6 +17,9 @@ I'm Elvis, a 28 year old frontend web developer from Latvia.
 - [@martonlederer](https://twitter.com/instagram) on Instagram
 - [Marton#6513](./) on Discord
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="elvis-k" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lv.linkedin.com/in/elvis-k?trk=profile-badge">Elvis K.</a></div>
+              
+
 
 <!--
 **SasquatchLV/SasquatchLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
