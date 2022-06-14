@@ -7,7 +7,7 @@ I'm Elvis, a 28 year old frontend web developer from Latvia.
 - 👁️ SCSS, CSS
 - 💽 MySQL, SQL, Mongo
 
-- 🌱 Currently exploring Next.js and AWS
+## - 🌱 Currently exploring Next.js, Angular and AWS
 
 ## Contact
 - [@ElvisK](https://www.linkedin.com/in/elvis-k/) on LinkedIn
