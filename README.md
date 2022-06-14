@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Elvis, a 28 year old frontend web developer from Latvia.
+I'm Elvis, frontend web developer from Latvia.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML
