@@ -6,7 +6,7 @@ A passionate frontend developer
 
 * 🌍  I'm based in Latvia
 * ✉️  You can contact me at [elvisketners@gmail.com](mailto:elvisketners@gmail.com)
-* 🧠  I'm learning React, Mongo, Nodejs, Express
+* 🧠  I'm knowledgable in React, Nextjs, React Native, Mongo, Nodejs, Express
 
 ### Skills
 
